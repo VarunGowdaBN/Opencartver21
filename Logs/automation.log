@@ -1,0 +1,170 @@
+2026-02-03 22:08:11 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Varun\AppData\Local\Temp\testng-eclipse--1033711491\testng-customsuite.xml"
+2026-02-03 22:08:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-02-03 22:08:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:08:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:08:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:08:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:08:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:08:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:08:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:08:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2026-02-03 22:08:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2026-02-03 22:08:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:08:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:08:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:08:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:08:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:08:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:08:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:08:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:08:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:08:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:08:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:08:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:08:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:08:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:08:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-02-03 22:08:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:08:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:08:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:08:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:08:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:08:11 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Varun\AppData\Local\Temp\testng-eclipse--1033711491\testng-customsuite.xml
+
+2026-02-03 22:08:11 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2026-02-03 22:08:14 INFO  TC001_AccountRegistrationtest:18 - ====================Test execution started====================
+2026-02-03 22:08:14 INFO  TC001_AccountRegistrationtest:20 - clicking on myaccount link
+2026-02-03 22:08:14 INFO  TC001_AccountRegistrationtest:22 - clicking on register link
+2026-02-03 22:08:15 INFO  TC001_AccountRegistrationtest:26 - entering values
+2026-02-03 22:08:15 INFO  TC001_AccountRegistrationtest:35 - clicked on continue button
+2026-02-03 22:08:16 INFO  TC001_AccountRegistrationtest:38 - validating confirm message
+2026-02-03 22:08:16 INFO  TC001_AccountRegistrationtest:51 - ==========================test execution ends========================
+2026-02-03 22:08:16 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@1ffcf674: 57 ms
+2026-02-03 22:08:16 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@7a55f148: 2 ms
+2026-02-03 22:08:16 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@62628e78: 9 ms
+2026-02-03 22:08:16 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@598260a6: 5 ms
+2026-02-03 22:08:16 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7aead3af: 5 ms
+2026-02-03 22:08:16 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3ac8cf9b: 0 ms
+2026-02-03 22:10:03 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Varun\AppData\Local\Temp\testng-eclipse-93157265\testng-customsuite.xml"
+2026-02-03 22:10:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-02-03 22:10:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:10:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:10:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:10:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:10:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:10:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:10:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:10:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2026-02-03 22:10:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2026-02-03 22:10:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:10:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:10:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:10:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:10:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:10:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:10:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:10:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:10:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:10:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:10:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:10:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:10:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:10:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:10:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:10:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:10:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:10:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:10:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:10:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:10:03 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Varun\AppData\Local\Temp\testng-eclipse-93157265\testng-customsuite.xml
+
+2026-02-03 22:10:03 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2026-02-03 22:10:06 INFO  TC001_AccountRegistrationtest:18 - ====================Test execution started====================
+2026-02-03 22:10:06 INFO  TC001_AccountRegistrationtest:20 - clicking on myaccount link
+2026-02-03 22:10:06 INFO  TC001_AccountRegistrationtest:22 - clicking on register link
+2026-02-03 22:10:07 INFO  TC001_AccountRegistrationtest:26 - entering values
+2026-02-03 22:10:07 INFO  TC001_AccountRegistrationtest:35 - clicked on continue button
+2026-02-03 22:10:09 INFO  TC001_AccountRegistrationtest:38 - validating confirm message
+2026-02-03 22:10:09 ERROR TC001_AccountRegistrationtest:46 - test failed
+2026-02-03 22:10:09 DEBUG TC001_AccountRegistrationtest:47 - Debug logs
+2026-02-03 22:10:09 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@12b5454f: 55 ms
+2026-02-03 22:10:09 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@3ac8cf9b: 14 ms
+2026-02-03 22:10:09 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@66ad7bf0: 9 ms
+2026-02-03 22:10:09 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@681e144: 12 ms
+2026-02-03 22:10:09 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7f92b990: 8 ms
+2026-02-03 22:10:09 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@31e04b13: 0 ms
+2026-02-03 22:14:22 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Varun\AppData\Local\Temp\testng-eclipse-483660430\testng-customsuite.xml"
+2026-02-03 22:14:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:14:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:14:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:14:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:14:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:14:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:14:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:14:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:14:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2026-02-03 22:14:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2026-02-03 22:14:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:14:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:14:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:14:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:14:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:14:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:14:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:14:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:14:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:14:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:14:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:14:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:14:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:14:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:14:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-02-03 22:14:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-02-03 22:14:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:14:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:14:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-03 22:14:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-03 22:14:22 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Varun\AppData\Local\Temp\testng-eclipse-483660430\testng-customsuite.xml
+
+2026-02-03 22:14:22 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2026-02-03 22:14:24 INFO  TC001_AccountRegistrationtest:18 - ====================Test execution started====================
+2026-02-03 22:14:24 INFO  TC001_AccountRegistrationtest:20 - clicking on myaccount link
+2026-02-03 22:14:25 INFO  TC001_AccountRegistrationtest:22 - clicking on register link
+2026-02-03 22:14:25 INFO  TC001_AccountRegistrationtest:26 - entering values
+2026-02-03 22:14:26 INFO  TC001_AccountRegistrationtest:35 - clicked on continue button
+2026-02-03 22:14:27 INFO  TC001_AccountRegistrationtest:38 - validating confirm message
+2026-02-03 22:14:27 ERROR TC001_AccountRegistrationtest:46 - test failed
+2026-02-03 22:14:27 DEBUG TC001_AccountRegistrationtest:47 - Debug logs
+2026-02-03 22:14:27 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@7f572c37: 44 ms
+2026-02-03 22:14:27 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@5e8c34a0: 11 ms
+2026-02-03 22:14:27 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@7c6189d5: 8 ms
+2026-02-03 22:14:27 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@38c2c309: 6 ms
+2026-02-03 22:14:27 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@64355120: 5 ms
+2026-02-03 22:14:27 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@64b7225f: 0 ms
+2026-02-03 22:41:38 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\Opencartver21\Main.xml"
+2026-02-03 22:41:39 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Opencartver21\Main.xml
+
+2026-02-03 22:41:42 INFO  TC001_AccountRegistrationtest:18 - ====================Test execution started====================
+2026-02-03 22:41:43 INFO  TC001_AccountRegistrationtest:21 - clicking on myaccount link
+2026-02-03 22:41:43 INFO  TC001_AccountRegistrationtest:23 - clicking on register link
+2026-02-03 22:41:43 INFO  TC001_AccountRegistrationtest:26 - entering values
+2026-02-03 22:41:43 INFO  TC001_AccountRegistrationtest:35 - clicked on continue button
+2026-02-03 22:41:44 INFO  TC001_AccountRegistrationtest:38 - validating confirm message
+2026-02-03 22:41:44 ERROR TC001_AccountRegistrationtest:46 - test failed
+2026-02-03 22:41:44 DEBUG TC001_AccountRegistrationtest:47 - Debug logs
+2026-02-03 22:42:44 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\Opencartver21\Main.xml"
+2026-02-03 22:42:44 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Opencartver21\Main.xml
+
+2026-02-03 22:42:46 INFO  TC001_AccountRegistrationtest:18 - ====================Test execution started====================
+2026-02-03 22:42:46 INFO  TC001_AccountRegistrationtest:21 - clicking on myaccount link
+2026-02-03 22:42:46 INFO  TC001_AccountRegistrationtest:23 - clicking on register link
+2026-02-03 22:42:46 INFO  TC001_AccountRegistrationtest:26 - entering values
+2026-02-03 22:42:47 INFO  TC001_AccountRegistrationtest:35 - clicked on continue button
+2026-02-03 22:42:48 INFO  TC001_AccountRegistrationtest:38 - validating confirm message
+2026-02-03 22:42:48 ERROR TC001_AccountRegistrationtest:46 - test failed
+2026-02-03 22:42:48 DEBUG TC001_AccountRegistrationtest:47 - Debug logs
